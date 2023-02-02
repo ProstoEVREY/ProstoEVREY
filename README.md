@@ -1,4 +1,8 @@
-### Hi there 👋
+### Dmitriy Katkov, 20 y.o., Node.js + React.js Developer from Tashent
+### 🌱 I’m currently learning Node Advanced Authentication
+### 📫 How to reach me:
+###        - Telegram: @Prosto_EVREY
+###        - <a href = 'https://www.linkedin.com/in/dmitriy-katkov-0735b320a/'>LinkedIn</a>
 
 <!--
 **ProstoEVREY/ProstoEVREY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
