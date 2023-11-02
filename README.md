@@ -1,5 +1,5 @@
-### Dmitriy Katkov, 20 y.o., Node.js + React.js Developer from Tashent
-### 🌱 I’m currently learning Node Advanced Authentication
+### Dmitriy Katkov, 21 y.o., Backend Developer from Tashkent
+### 🌱 I’m currently working on real-time paint application
 ### 📫 How to reach me:
 ###        - Telegram: @Prosto_EVREY
 ###        - <a href = 'https://www.linkedin.com/in/dmitriy-katkov-0735b320a/'>LinkedIn</a>
