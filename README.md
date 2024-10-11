@@ -3,7 +3,6 @@
 ###        - Telegram: @Prosto_EVREY
 ###        - <a href = 'https://www.linkedin.com/in/dmitriy-katkov-0735b320a/'>LinkedIn</a>
 ###        - <a href="mailto:dmitriy.katkov.dk@gmail.com">Email</a>
-###        - ⚡ My web-site with all of that info: dmitriykatkov.onrender.com
 
 <!--
 **ProstoEVREY/ProstoEVREY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
